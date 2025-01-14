@@ -1,0 +1,554 @@
+[
+    {
+        "id": "45471778191",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22082465525,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "da7af1f2e3cc6978c412595fafadcba0b55c72f4",
+            "before": "13a1b70564b60c89c66bd25724cebeffbfcf1c27",
+            "commits": [
+                {
+                    "sha": "da7af1f2e3cc6978c412595fafadcba0b55c72f4",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "README roadmap",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/da7af1f2e3cc6978c412595fafadcba0b55c72f4"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-11T20:25:18Z"
+    },
+    {
+        "id": "45471757953",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22082450565,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "13a1b70564b60c89c66bd25724cebeffbfcf1c27",
+            "before": "088cfce3eb7490653a9cd472ee20f97db8db281c",
+            "commits": [
+                {
+                    "sha": "13a1b70564b60c89c66bd25724cebeffbfcf1c27",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "README Getting Started addition",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/13a1b70564b60c89c66bd25724cebeffbfcf1c27"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-11T20:23:13Z"
+    },
+    {
+        "id": "45471696572",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 161215159,
+            "name": "othneildrew/Best-README-Template",
+            "url": "https://api.github.com/repos/othneildrew/Best-README-Template"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2025-01-11T20:17:23Z"
+    },
+    {
+        "id": "45456563818",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22072071021,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "088cfce3eb7490653a9cd472ee20f97db8db281c",
+            "before": "0690b9e37bc27fc33dd875a2d6ad542cffc933ec",
+            "commits": [
+                {
+                    "sha": "088cfce3eb7490653a9cd472ee20f97db8db281c",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "README update",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/088cfce3eb7490653a9cd472ee20f97db8db281c"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-10T21:33:43Z"
+    },
+    {
+        "id": "45454888465",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22071218132,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "0690b9e37bc27fc33dd875a2d6ad542cffc933ec",
+            "before": "2c354a2221e394a31fe4f6ebce1b4585f234cade",
+            "commits": [
+                {
+                    "sha": "0690b9e37bc27fc33dd875a2d6ad542cffc933ec",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "Comments",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/0690b9e37bc27fc33dd875a2d6ad542cffc933ec"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-10T20:21:38Z"
+    },
+    {
+        "id": "45454773972",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22071159066,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "2c354a2221e394a31fe4f6ebce1b4585f234cade",
+            "before": "3fd95314558a8e875a9f0f8c46412d1e8d6bc93b",
+            "commits": [
+                {
+                    "sha": "2c354a2221e394a31fe4f6ebce1b4585f234cade",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "set .gitignore",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/2c354a2221e394a31fe4f6ebce1b4585f234cade"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-10T20:16:59Z"
+    },
+    {
+        "id": "45454357819",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22070945591,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "3fd95314558a8e875a9f0f8c46412d1e8d6bc93b",
+            "before": "c25e76c66623dc872cf3c2102e353d3bf327e6e3",
+            "commits": [
+                {
+                    "sha": "3fd95314558a8e875a9f0f8c46412d1e8d6bc93b",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "Bug Fixes - ready for submission",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/3fd95314558a8e875a9f0f8c46412d1e8d6bc93b"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-10T20:00:19Z"
+    },
+    {
+        "id": "45390394074",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "repository_id": 913577806,
+            "push_id": 22038634255,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "c25e76c66623dc872cf3c2102e353d3bf327e6e3",
+            "before": "f292e0b206356c687b4a50eb92ec8d1cd920367f",
+            "commits": [
+                {
+                    "sha": "c25e76c66623dc872cf3c2102e353d3bf327e6e3",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Tin-Trung Pham"
+                    },
+                    "message": "Completed functionality",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI/commits/c25e76c66623dc872cf3c2102e353d3bf327e6e3"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-01-09T04:40:41Z"
+    },
+    {
+        "id": "45348321745",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-01-08T00:40:43Z"
+    },
+    {
+        "id": "45348321273",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 913577806,
+            "name": "tintrungp/TaskTracker-CLI",
+            "url": "https://api.github.com/repos/tintrungp/TaskTracker-CLI"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-01-08T00:40:41Z"
+    },
+    {
+        "id": "44784669251",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 899849927,
+            "name": "tintrungp/AdventCode",
+            "url": "https://api.github.com/repos/tintrungp/AdventCode"
+        },
+        "payload": {
+            "repository_id": 899849927,
+            "push_id": 21704174301,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "583aed54bf523b4e726d1543c2aee254a066d64d",
+            "before": "18dff079e9583aa41893398229abb12acf960f39",
+            "commits": [
+                {
+                    "sha": "583aed54bf523b4e726d1543c2aee254a066d64d",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Trungy"
+                    },
+                    "message": "Day 5 - oops it's been a little break",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/AdventCode/commits/583aed54bf523b4e726d1543c2aee254a066d64d"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-12-14T05:23:14Z"
+    },
+    {
+        "id": "44588406125",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 899849927,
+            "name": "tintrungp/AdventCode",
+            "url": "https://api.github.com/repos/tintrungp/AdventCode"
+        },
+        "payload": {
+            "repository_id": 899849927,
+            "push_id": 21606199693,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "18dff079e9583aa41893398229abb12acf960f39",
+            "before": "dafc687a454f0ffca8ff38604ae5f4972496920e",
+            "commits": [
+                {
+                    "sha": "18dff079e9583aa41893398229abb12acf960f39",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Trungy"
+                    },
+                    "message": "Day 4 - really quite ugly lol",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/AdventCode/commits/18dff079e9583aa41893398229abb12acf960f39"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-12-09T03:34:56Z"
+    },
+    {
+        "id": "44575089367",
+        "type": "PushEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 899849927,
+            "name": "tintrungp/AdventCode",
+            "url": "https://api.github.com/repos/tintrungp/AdventCode"
+        },
+        "payload": {
+            "repository_id": 899849927,
+            "push_id": 21597763154,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "dafc687a454f0ffca8ff38604ae5f4972496920e",
+            "before": "3b2c54b581ba53f6b347d4ca129b7cf1c09f7286",
+            "commits": [
+                {
+                    "sha": "dafc687a454f0ffca8ff38604ae5f4972496920e",
+                    "author": {
+                        "email": "tintrungpham1@gmail.com",
+                        "name": "Trungy"
+                    },
+                    "message": "Day 3 - very tired but we did it.",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/tintrungp/AdventCode/commits/dafc687a454f0ffca8ff38604ae5f4972496920e"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-12-08T07:31:16Z"
+    },
+    {
+        "id": "44562986921",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 899849927,
+            "name": "tintrungp/AdventCode",
+            "url": "https://api.github.com/repos/tintrungp/AdventCode"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-12-07T07:12:32Z"
+    },
+    {
+        "id": "44562982908",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 899849927,
+            "name": "tintrungp/AdventCode",
+            "url": "https://api.github.com/repos/tintrungp/AdventCode"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-12-07T07:12:03Z"
+    },
+    {
+        "id": "44562973221",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 59745149,
+            "login": "tintrungp",
+            "display_login": "tintrungp",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/tintrungp",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59745149?"
+        },
+        "repo": {
+            "id": 899849634,
+            "name": "tintrungp/Advent-of-Code",
+            "url": "https://api.github.com/repos/tintrungp/Advent-of-Code"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-12-07T07:10:56Z"
+    }
+]
