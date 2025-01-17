@@ -44,4 +44,4 @@ A future roadmap might look like the following...
 
 [Link to the project](https://roadmap.sh/projects/github-user-activity)
 
-[Link to the my solution entry](https://roadmap.sh/projects/task-tracker/solutions?u=677dc6bc70129741a81de8d9)
+[Link to the my solution entry](https://roadmap.sh/projects/github-user-activity/solutions?u=677dc6bc70129741a81de8d9)
